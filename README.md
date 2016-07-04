@@ -1,4 +1,6 @@
 # LeetCode
 This is a repository of my code of leetcode. It's just for fun!!
-##List
-List is an important part when you're interviewed.
+
+
+
+fuck new branch
