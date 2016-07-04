@@ -1,6 +1,10 @@
 # LeetCode
 This is a repository of my code of leetcode. It's just for fun!!
-
-dfadf d dsf sdf adsf 
+dfasdf 
+dsfa s
+asdfa 
+asdf asd for
+asdf asdf 
+adf
 
 fuck new branch
