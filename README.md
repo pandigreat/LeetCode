@@ -6,11 +6,8 @@ This is a repository of my code of leetcode. It's just for fun!!
  
 Speak now
 See the flame
-
-放手等到风景哦
-懂？？？？？
-士大夫
-
+奥斯丁弄ignawfsf阿斯顿分收到
+士大夫iag阿斯顿分阿斯顿分
 他妈的老子是release啊
 新加的内容从Master
 
