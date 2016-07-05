@@ -6,13 +6,10 @@ This is a repository of my code of leetcode. It's just for fun!!
  
 Speak now
 See the flame
+我是说添加的东西啊
 
-大佛你阿道夫爱的色放
-fads发阿斯顿分
+懂？？？？？
 
-我是release啊
-
-。。。。
 
 
 
