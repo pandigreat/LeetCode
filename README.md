@@ -1,6 +1,7 @@
 # LeetCode
 This is a repository of my code of leetcode. It's just for fun!!
 
+
 ##List
  
 Speak now
@@ -12,3 +13,4 @@ Master 有中文啊，兄弟
 真的吗
 猛
 发哦那个哦暗灯光啊哦那个哦昂
+
